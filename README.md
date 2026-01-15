@@ -13,6 +13,19 @@ This work is particularly motivated by applications in **robotics, indoor scene 
 
 ---
 
+## 🚀 Run on Google Colab
+
+YOLOv8 Notebook:  
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](
+https://colab.research.google.com/github/dishaphalle27/Object-Detection-Using-Semantic-Slam/blob/main/YOLOv8_TUM_Object_Detection%20(1).ipynb
+)
+
+DETR Notebook:  
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](
+https://colab.research.google.com/github/dishaphalle27/Object-Detection-Using-Semantic-Slam/blob/main/DETR_TUM_Simple_Object_Detection%20(1).ipynb
+)
+
+
 ## 🚀 Models Used
 - **YOLOv8 (Ultralytics)**  
   - CNN-based, single-stage detector  
